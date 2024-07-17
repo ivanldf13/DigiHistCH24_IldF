@@ -16,7 +16,10 @@ keywords:
   - Keyword 5: Political Economy
 
 abstract: |
-  Short abstract of the submission. This is a placeholder for the abstract of the manuscript. It should be between 150 and 250 words. It must not contain any references or unexplained abbreviations.
+  This paper aims to analyse the evolution of the development concept throughout the Rockefeller Foundation’s first century of existence, utilising its annual reports. Drawing inspiration from Moretti & Pestre’s influential working paper – ‘Banskpeak” – our methodology consists of a two-fold approach. Firstly, we conducted a quantitative language analysis of the language employed in the Rockefeller Foundation’s annual reports. Here, using R we did a Structural Topic Modelling. Secondly, building upon the outcomes of this initial quantitative analysis, we delved into the activities and institutions in which the Foundation was involved to reconstruct its evolving development concept. This approach allowed us to observe how the meaning of development evolved, accumulating new connotations over time.
+
+We started our analysis at the beginning of the 20th century because – even though the development concept was not formally coined until 1949 – the Foundation was already involved in development activities and institutions before that date. Furthermore, this actor had a set of ideas from the beginning of its activities that continued to influence its actions even after the formalisation of the development concept. In this sense, we explored the significance of the self-help ethic and market-oriented mentality in other spheres of development. Consequently, we demonstrated that self-help had consistently played a pivotal role in the Foundation’s development strategy since the Foundation’s inception. Furthermore, we scrutinised the roles ascribed by the Foundation to various actors in the development process. While the Foundation initially regarded the State as the primary actor in development, by the study period’s end, new participants such as private companies, communities, and individuals had become integral to this process.
+
 key-points:
   - Key point 1 (1 sentence)
   - Key point 2 (1 sentence)
