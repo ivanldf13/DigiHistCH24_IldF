@@ -1,24 +1,20 @@
 ---
-submission_id: 499
-title: Digital History Switzerland 2024 submission title
+submission_id: 469
+title: Develop Yourself! Development according to the Rockefeller Foundation (1913 – 2013)
 author:
-  - name: Petra Huber
-    orcid: 0000-0002-0760-5497
-    email: petra.huber@university.ch
+  - name: Iván Lorenci de Francisco
+    orcid: 0000-0001-7005-802X
+    email: edu.ildf@icloud.com
     affiliations:
-      - University 1
-  - name: Michel Meier
-    orcid: 0000-0002-7859-8394
-    email: michel.meier@university.edu
-    affiliations:
-      - University 1
-      - University 2
+      - University of Geneva
+
 keywords:
-  - Keyword 1
-  - Keyword 2
-  - Keyword 3
-  - Keyword 4 (optional)
-  - Keyword 5 (optional)
+  - Keyword 1 : Digital History
+  - Keyword 2: Structural Topic Modelling
+  - Keyword 3: Rockefeller Foundation
+  - Keyword 4: Development
+  - Keyword 5: Political Economy
+
 abstract: |
   Short abstract of the submission. This is a placeholder for the abstract of the manuscript. It should be between 150 and 250 words. It must not contain any references or unexplained abbreviations.
 key-points:
