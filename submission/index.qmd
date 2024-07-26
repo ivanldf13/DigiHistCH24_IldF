@@ -126,6 +126,6 @@ This limitation of STM revealed the importance of working hypotheses created thr
 
 
 
-![Figure caption text.](images/placeholder.png)
+![](images/placeholder.png)
 
 
