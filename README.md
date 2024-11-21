@@ -1,6 +1,3 @@
-
-TEST_21.11
-
 # Abstract Template for Digital History Switzerland 2024
 
 Welcome to the official repository for the extended abstracts of the Digital History Switzerland 2024 conference. This repository aims to facilitate reproducible research by providing a standardized template for abstract submission. The data here is openly available to support and encourage transparency and collaboration in historical research.
